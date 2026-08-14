@@ -1,26 +1,35 @@
 # 🔐 Wi-Fi Password Security Auditor
 
-A web-based cybersecurity project that audits the security of a Wi-Fi configuration.
+**Intern ID:** CITS8420
+**Full Name:** Onley Zarro N
+**No. of Weeks:** 4 weeks
+**Project Name:** Wi-Fi Password Security Auditor
+
+## Project Description
+
+The Wi-Fi Password Security Auditor is a web-based cybersecurity tool designed to evaluate the security of a Wi-Fi network configuration. It checks password strength, password length, character complexity, common weak-password patterns, SSID similarity, Wi-Fi security protocols, and WPS status.
+
+The tool generates an overall security score and provides recommendations to help users improve their Wi-Fi security.
 
 ## Features
 
-- Wi-Fi password strength analysis
-- Password length checking
-- Uppercase/lowercase detection
-- Number and special-character detection
-- Common weak-password detection
-- SSID/password similarity check
-- WPA/WPA2/WPA3 security evaluation
-- WPS status evaluation
-- Overall security score from 0–100
-- Security recommendations
-- Fully client-side operation
+* Wi-Fi password strength analysis
+* Password length checking
+* Uppercase/lowercase detection
+* Number and special-character detection
+* Common weak-password detection
+* SSID/password similarity check
+* WPA/WPA2/WPA3 security evaluation
+* WPS status evaluation
+* Overall security score from 0–100
+* Security recommendations
+* Fully client-side operation
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
+* HTML5
+* CSS3
+* JavaScript
 
 ## How to Run
 
@@ -44,11 +53,11 @@ This project does not attempt to crack passwords, access Wi-Fi networks, capture
 
 This project demonstrates basic cybersecurity concepts including:
 
-- Password security
-- Wireless security configuration
-- Security scoring
-- Client-side validation
-- Security recommendations
+* Password security
+* Wireless security configuration
+* Security scoring
+* Client-side validation
+* Security recommendations
 
 ## License
 
